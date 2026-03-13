@@ -1,0 +1,64 @@
+{
+    "fridge": [
+        {
+            "name": "beef",
+            "added": "03/12/2026"
+        }
+    ],
+    "personals": [
+        {
+            "name": "laptop",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "ipad",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "xbox",
+            "added": "03/12/2026"
+        }
+    ],
+    "books": [
+        {
+            "name": "how to do the right thing by seneca",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "meditations by marcus aurelius",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "my hero academia, vol. 1 by kohei horikoshi",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "chainsaw man, vol. 1 by tatsuki fujimoto",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "naruto, vol. 1 by masashi kishimoto",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "jujutsu kaisen, vol. 1 by gege akutami",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "meditations (penguin) by marcus aurelius",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "the republic by plato",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "how to be a stoic by massimo pigliucci",
+            "added": "03/12/2026"
+        },
+        {
+            "name": "the art of war (and other classics of eastern thought)",
+            "added": "03/12/2026"
+        }
+    ]
+}
